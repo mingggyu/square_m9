@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=square%20m9&fontSize=90)
 
-## Blog
-https://mingggyu.github.io/square_m9/
 
 ## Studying
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
